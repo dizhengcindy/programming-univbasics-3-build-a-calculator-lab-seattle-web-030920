@@ -11,7 +11,7 @@ df
 end
 
 def division(num1, num2)
-div = num2/num1
+div = num1/num2
 puts "#{div}"
 div
 end
@@ -23,7 +23,7 @@ mul
 end
 
 def modulo(num1, num2)
-remaider = num2%num1
+remaider = num1%num2
 puts"#{remaider}"
 remaider
 end
