@@ -23,7 +23,9 @@ mul
 end
 
 def modulo(num1, num2)
-
+remaider = num2%num1
+puts"#{remaider}"
+remaider
 end
 
 def square_root(num)
